@@ -82,7 +82,7 @@
 , "devDependencies":
   { "less"   : "1.4.2"
   , "nablarch-dev-tool-uibuild": "1.1.0"
-  , "nablarch-dev-tool-server": "1.0.1"
+  , "nablarch-dev-tool-server": "1.0.2"
   , "nablarch-dev-ui_demo-core": "1.0.2"
   , "nablarch-dev-ui_demo-core-lib": "1.1.1"
   , "nablarch-dev-ui_demo-config": "1.0.1"
